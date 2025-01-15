@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+
+h1{
+    color: red;
+    background-color: aquamarine;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
+div{
+    height: 60px;
+    margin: auto;
+    border: 2px;
+    background-color: aqua;
+    padding-left: 4px;
+    /* text-align: center; */
+    width: 60px;
+}
